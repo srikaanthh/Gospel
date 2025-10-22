@@ -1,4 +1,4 @@
-# Fake News Prediction System
+# Gospel - Fake News Prediction (LSTM Networks)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![ML Type](https://img.shields.io/badge/ML-Binary_Classification-orange)
