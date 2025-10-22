@@ -23,7 +23,7 @@
 <p>
   <h2>Authors</h2>
   <ul>
-    <li><a href="https://github.com/luisosorio3214">@luisosorio3214</a></li>
+    <li><a href="https://github.com/luisosorio3214">@srikaanthh</a></li>
   </ul>
 </p>
 
