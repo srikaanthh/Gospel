@@ -1,4 +1,4 @@
-# Gospel - Fake News Prediction (LSTM Networks)
+# Gospel - Fake News Prediction (TF_IDF + Classic ML algorithm)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![ML Type](https://img.shields.io/badge/ML-Binary_Classification-orange)
